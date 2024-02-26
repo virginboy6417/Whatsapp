@@ -1,0 +1,15 @@
+@media (max-width:470px){
+    body{
+        background-color: red;
+    }
+    #use{
+        font-size: 15px;
+        color: red;
+    }
+    .qr-code{
+        display: none;
+    }
+    .qr-code-1{
+        display: block;
+    }
+}
